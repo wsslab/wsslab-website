@@ -1,11 +1,30 @@
+- date: 07/2026
+  content: Prof. Nguyen is grateful to receive NSF CAREER Award to develop "Neuromorphic
+    Computing Earables"!
+  highlights:
+  - content: NSF CAREER Award
+    url: https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2541673
+  - content: Neuromorphic Computing Earables
+- date: 06/2026
+  content: Our collaborative team from Columbia University, Dartmouth College, our
+    lab at UMass Amherst, and industry partners has been awarded a ARPA-H MOCS project.
+    The project includes $5M in first-year funding. Congratulations, team! News Coverage.
+  highlights:
+  - content: Columbia University
+  - content: Dartmouth College
+  - content: our lab at UMass Amherst
+  - content: ARPA-H MOCS project
+  - content: $5M in first-year funding
+  - content: News Coverage.
+    url: https://www.umass.edu/news/article/umass-amherst-computer-science-researchers-join-project-develop-integrated-wearable
 - date: 06/2026
   content: 'Our paper on a Self-Maintaining Electrode-Skin Interface for Motion-Robust
     Biosignal Monitoring has been accepted to Advanced Healthcare Materials 2026 (Impact
     Factor: 10.8). Congratulations, team!'
   highlights:
-  - content: Self-Maintaining Electrode-Skin Interface for Motion-Robust Biosignal Monitoring
+  - content: Self-Maintaining Electrode-Skin Interface for Motion-Robust Biosignal
+      Monitoring
     url: https://advanced.onlinelibrary.wiley.com/doi/10.1002/adhm.202505850
-  
 - date: 06/2026
   content: Our collaborative team from Columbia University, Dartmouth College, our
     lab at UMass Amherst, and industry partners has been awarded an ARPA-H MOCS project.
@@ -13,15 +32,19 @@
   highlights:
   - content: ARPA-H MOCS project
     url: https://arpa-h.gov/news-and-events/arpa-h-selects-pioneering-teams-make-america-safest-place-world-have-baby
-  
 - date: 03/2026
-  content: We will serve as General Co-Chair for ACM MobiSys 2027 in Ho
+  content: Prof. Nguyen will serve as General Co-Chair for ACM MobiSys 2027 in Ho
     Chi Minh City with Jun Han and Anh Nguyen. Looking forward to welcoming everyone
     to Vietnam next Summer!
   highlights:
+  - content: ACM MobiSys 2027 in Ho Chi Minh City
+- date: 03/2026
+  content: We will serve as General Co-Chair for ACM MobiSys 2027 in Ho Chi Minh City
+    with Jun Han and Anh Nguyen. Looking forward to welcoming everyone to Vietnam
+    next Summer!
+  highlights:
   - content: ACM MobiSys 2027
     url: https://dl.acm.org/conference/mobisys
-
 - date: 02/2026
   content: Two paper is accepted to ACM SenSys 2026. Congratulations, team!
   highlights:

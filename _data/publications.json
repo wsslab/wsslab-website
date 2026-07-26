@@ -2149,6 +2149,45 @@
     "note": "(23 out of 147 submissions, acceptance ratio: 15.6\\"
   },
   {
+    "id": "#nguyen2017mathan",
+    "type": "paper-conference",
+    "title": "Mathan: Drone Presence Detection by Identifying Physical Signatures in the Drone's RF Communication",
+    "author": [
+      {
+        "family": "Nguyen",
+        "given": "Phuc VP"
+      },
+      {
+        "family": "Truong",
+        "given": "Hoang"
+      },
+      {
+        "family": "Ravindranathan",
+        "given": "Mahesh"
+      },
+      {
+        "family": "Nguyen",
+        "given": "Anh"
+      },
+      {
+        "family": "Han",
+        "given": "Richard"
+      },
+      {
+        "family": "Vu",
+        "given": "Tam"
+      }
+    ],
+    "container-title": "Proceedings of the ACM MobiSys 2017",
+    "issued": {
+      "date-parts": [
+        [
+          "2017"
+        ]
+      ]
+    }
+  },
+  {
     "id": "http://conferences.computer.org/chase2017/",
     "type": "paper-conference",
     "title": "Thermal-Depth Fusion for Occluded Body Skeletal Posture Estimation",
