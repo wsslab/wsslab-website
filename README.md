@@ -123,18 +123,6 @@ An entry looks like the following:
     duis ultricies. Commodo viverra maecenas accumsan lacus vel.
 ```
 
-### Auto-Sync News & Publications (Weekly)
-
-The website automatically checks the advisor's personal website every Sunday at 00:00 UTC using a GitHub Actions workflow. The sync pipeline:
-1. Scrapes `https://people.cs.umass.edu/~phuc/`.
-2. Uses OpenRouter (`nvidia/nemotron-3-nano-30b-a3b:free`) to convert news announcements into YAML blocks and new citations into BibTeX.
-3. Merges the new items into `_data/news.yml` and `_data/publications.bib` after performing a title-similarity deduplication check.
-4. Automatically runs `scripts/bib2json.py` to compile `publications.json`.
-5. Commits and pushes the updates to the repository.
-
-* **Files**: `scripts/sync_advisor_data.py` & `.github/workflows/sync-advisor.yml`
-* **Secrets Required**: `OPENROUTER_API_KEY` (must be set in repository secrets).
-
 ### Auto-Submit Publications (via GitHub Issue)
 
 To add a publication that is not on your advisor's website:
